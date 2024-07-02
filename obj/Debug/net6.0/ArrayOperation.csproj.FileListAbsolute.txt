@@ -12,3 +12,4 @@ D:\UpwardDataBase\C# practice\ArrayOperation\ArrayOperation\obj\Debug\net6.0\ref
 D:\UpwardDataBase\C# practice\ArrayOperation\ArrayOperation\obj\Debug\net6.0\ArrayOperation.pdb
 D:\UpwardDataBase\C# practice\ArrayOperation\ArrayOperation\obj\Debug\net6.0\ArrayOperation.genruntimeconfig.cache
 D:\UpwardDataBase\C# practice\ArrayOperation\ArrayOperation\obj\Debug\net6.0\ref\ArrayOperation.dll
+D:\UpwardDataBase\C# practice\ArrayOperation\ArrayOperation\obj\Debug\net6.0\ArrayOperation.sourcelink.json
