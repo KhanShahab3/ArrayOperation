@@ -16,5 +16,16 @@
         {
             Console.WriteLine("{0,5}{1,8}",i, arrays[i]);
         }
+        //Summing all array elements
+        Console.WriteLine("Summing array elements.................");
+        int[] arraySum = { 12, 13, 24, 54, 21, 34, 56 };
+        int total = 0;
+        for(int j=0; j<arraySum.Length; j++)
+        {
+            total += arraySum[j];
+
+
+        }
+        Console.WriteLine("Sum of Array is:{0} ", total);
     }
 }
