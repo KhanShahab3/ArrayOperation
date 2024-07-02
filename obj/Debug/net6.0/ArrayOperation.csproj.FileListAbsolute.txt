@@ -1,0 +1,14 @@
+D:\UpwardDataBase\C# practice\ArrayOperation\ArrayOperation\bin\Debug\net6.0\ArrayOperation.exe
+D:\UpwardDataBase\C# practice\ArrayOperation\ArrayOperation\bin\Debug\net6.0\ArrayOperation.deps.json
+D:\UpwardDataBase\C# practice\ArrayOperation\ArrayOperation\bin\Debug\net6.0\ArrayOperation.runtimeconfig.json
+D:\UpwardDataBase\C# practice\ArrayOperation\ArrayOperation\bin\Debug\net6.0\ArrayOperation.dll
+D:\UpwardDataBase\C# practice\ArrayOperation\ArrayOperation\bin\Debug\net6.0\ArrayOperation.pdb
+D:\UpwardDataBase\C# practice\ArrayOperation\ArrayOperation\obj\Debug\net6.0\ArrayOperation.GeneratedMSBuildEditorConfig.editorconfig
+D:\UpwardDataBase\C# practice\ArrayOperation\ArrayOperation\obj\Debug\net6.0\ArrayOperation.AssemblyInfoInputs.cache
+D:\UpwardDataBase\C# practice\ArrayOperation\ArrayOperation\obj\Debug\net6.0\ArrayOperation.AssemblyInfo.cs
+D:\UpwardDataBase\C# practice\ArrayOperation\ArrayOperation\obj\Debug\net6.0\ArrayOperation.csproj.CoreCompileInputs.cache
+D:\UpwardDataBase\C# practice\ArrayOperation\ArrayOperation\obj\Debug\net6.0\ArrayOperation.dll
+D:\UpwardDataBase\C# practice\ArrayOperation\ArrayOperation\obj\Debug\net6.0\refint\ArrayOperation.dll
+D:\UpwardDataBase\C# practice\ArrayOperation\ArrayOperation\obj\Debug\net6.0\ArrayOperation.pdb
+D:\UpwardDataBase\C# practice\ArrayOperation\ArrayOperation\obj\Debug\net6.0\ArrayOperation.genruntimeconfig.cache
+D:\UpwardDataBase\C# practice\ArrayOperation\ArrayOperation\obj\Debug\net6.0\ref\ArrayOperation.dll
